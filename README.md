@@ -3,13 +3,6 @@
 > 一个轻量级的 Windows 桌面仪表板，用于可视化和分析 DeepSeek API 使用情况。
 > 
 ---
-
-## 📸 截图
-
-> <img width="1741" height="1155" alt="image" src="https://github.com/user-attachments/assets/9b62f56a-5ea9-47b3-985f-a35b3134f1a5" /
-
----
-
 ## ✨ 功能特性
 
 - 📊 **Token 用量分析** — 实时查看提示词（prompt）与补全（completion）Token 消耗
@@ -114,7 +107,7 @@ A：当前版本要求数据文件与可执行文件位于同一目录。
 ### 微信赞赏
 
 <p align="left">
-  <img src="https://via.placeholder.com/200x200?text=WeChat+QR" alt="微信赞赏码" width="200"/>
+  <img src="/pictures/reward.jpg" alt="微信赞赏码" width="200"/>
 </p>
 
 ---
